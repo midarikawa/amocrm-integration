@@ -1,0 +1,12 @@
+.env
+*.pyc
+__pycache__/
+*.log
+*.db
+*.sqlite
+venv/
+env/
+.vscode/
+.idea/
+config/google_credentials.json
+logs/
